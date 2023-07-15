@@ -53,6 +53,11 @@ from accounts a
 inner join customers c using (customerid)
 where a.accounttype in ("savings","checking")
 group by 1 order by 2 desc limit 1;
+![Screenshot (34)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/3f7bb3d6-7fc3-4ce0-bcc5-19622b4ce13b)
+
+
+Insights-
+
 
 
 
