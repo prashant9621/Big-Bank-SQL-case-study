@@ -1,5 +1,5 @@
 # Big-Bank-SQL-case-study
-![Screenshot (25)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/edd59f93-03c3-438b-953c-dc7fc9a64ed5)
+![Screenshot (31)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/4a467464-e2d7-405c-843e-42cdc04000ba)
 
 
 Objective
