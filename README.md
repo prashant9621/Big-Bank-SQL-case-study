@@ -58,6 +58,8 @@ group by 1 order by 2 desc limit 1;
 
 Insights-
 
+![Screenshot (35)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/d49e8715-444b-408e-9c21-30ba4ee16dd3)
+
 
 
 
