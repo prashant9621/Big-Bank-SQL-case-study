@@ -117,7 +117,8 @@ group by 1 order by 2 desc limit 1;
 Insights
 
 
-![WhatsApp Image 2023-09-01 at 11 07 48 PM](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/674d7416-2aba-447a-8a88-59168f048b2f)
+![WhatsApp Image 2023-09-01 at 11 07 48 PM](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/ac89313c-bfd5-4840-b0fb-9a7040164410)
+
 
 
 
