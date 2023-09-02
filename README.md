@@ -2,26 +2,30 @@
 ![Screenshot (31)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/4a467464-e2d7-405c-843e-42cdc04000ba)
 
 
-Objective
-1-As a Financial analysts,we have been tasked to find out about our customers and their banking behavior.
+**Objective:**
+As a Financial Analyst, we have been tasked to find out about our customers and their banking behavior.
+
+**Task 1: Examine Customer Information**
+1. Examine the accounts they hold and the type of transactions they make to develop greater insights into your customers.
+
+**Data Source:**
+The Challenge is organized by Steel Data, and the dataset is available for download from their [website](https://www.steeldata.com/dataset).
+
+**Question 1:**
+What are the names of all the customers who live in New York?
+
+**SQL Query:**
+```sql
+SELECT CONCAT(firstname, " ", lastname) AS name
+FROM customers
+WHERE city = "New York";
 
 
-2-Examine the accounts they hold and type of transactions they make to develop greater insights into your customers.
-
-
-
-3-The Challenge is organised by steel data and dataset is download from their Website.
-
-
-Q1-What are the names of all the customers who live in new york?
 
 
 
 
-Ans-
-select cocat(firstname," ",lastname) as name
-from customers
-where city="New york" ;
+
 ![Screenshot (32)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/21f9849b-5a11-43af-a6cd-cfb6a0d1ef90)
 
 
