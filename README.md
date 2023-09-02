@@ -114,9 +114,11 @@ group by 1 order by 2 desc limit 1;
 
 
 
-Insights-
+Insights
 
-![Screenshot (35)](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/d49e8715-444b-408e-9c21-30ba4ee16dd3)
+
+![WhatsApp Image 2023-09-01 at 11 07 48 PM](https://github.com/prashant9621/Big-Bank-SQL-case-study/assets/136049491/674d7416-2aba-447a-8a88-59168f048b2f)
+
 
 
 
