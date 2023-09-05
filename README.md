@@ -1,5 +1,3 @@
-# Big-Bank-SQL-case-study
-
 
 # Big-Bank-SQL-case-study
 
