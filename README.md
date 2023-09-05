@@ -27,17 +27,25 @@ What is the total number of accounts in the accounts table?
 ```sql
 SELECT COUNT(*) AS total_accounts
 FROM accounts;
+
+
 Question 3:
 What is the total balance of all checking accounts?
 SELECT SUM(balance) AS total_balance
 FROM accounts
 WHERE accounttype = "checking";
+
+
+
 Question 4:
 What is the total balance of all accounts associated with customers who live in Los Angeles?
 SELECT SUM(balance) AS total_balance
 FROM accounts a 
 INNER JOIN customers c ON c.customerid = a.customerid
 WHERE c.city = "Los Angeles";
+
+
+
 Question 5:
 Which branch has the highest total balance across all of its accounts?
 SELECT b.branchname, SUM(balance) AS total_balance
@@ -47,6 +55,9 @@ GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 1;
 Question 6:
+
+
+
 Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
 SELECT CONCAT(firstname, " ", lastname) AS full_name,
 SUM(balance) AS total_balance
